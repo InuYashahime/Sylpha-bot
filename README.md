@@ -1,5 +1,3 @@
-> `NOTA :` A las 20 estrellas los codigos ofuscados (encriptados) se desofuscaran (desencriptaran)
-
 <h1 align="center">♡ 𝚂𝚢𝚕𝚙𝚑𝚊-𝙼𝙳 ♡</h1>
 <br>
 <div align="center">
@@ -25,46 +23,26 @@
 # 📖 Características del bot 
 |  Funciones y comandos  |                                           Sip |
 | :---------------------------------------------: | :-----------: |
-| Crea stickers|✔️|
-| Bienvenida automática|✔️|
-| Modo Publico/Privado|✔️|
-| Descarga de música/videos|✔️|
-| Chat-Bot|✔️|
+| Crea stickers|✅|
+| Bienvenida automática|❌|
+| Modo Publico/Privado|✅|
+| Descarga de música/videos|✅|
+| Chat-Bot|⌛|
 | Más funciones en adelante|♻️|
 
 
-# Sylpha bot ya esta disponible en FlarexCloud ✨
-<a href="https://www.flarex.cloud"><img src="https://cdn.flarex.cloud/deploy.png" height="60px"></a>
-- Pagina Web: https://www.flarex.cloud
-- Área de Pagos: https://billing.flarex.cloud
-- Game Panel: https://gamepanel.flarex.cloud
-- Contacto: hi@flarex.cloud / support@flarex.cloud / partnerships@flarex.cloud
-- Discord: https://discord.flarex.cloud
-- WhatsApp: https://whatsapp.flarex.cloud
+### ✨ Activar En Cloud Starlights
 
-# Instalacion en Termux
+<a href="https://dash.starlights.uk"><img src="https://i.ibb.co/37T9Nnk/file.jpg" width="300" height="300" alt="Cloud Starlights"/></a>
 
-# 📲Termux
-Para nuevos desde cero en termux.apk:
-```bash
-> termux-setup-storage
-> termux-change-repo
-> apt update -y && apt upgrade -y
-> pkg install git
-> pkg install nodejs
-> pkg install libwebp -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> pkg install yarn
+- Dash: [dash.starlights.uk](https://dash.starlights.uk)
+- Panel: [cloud.starlights.uk](https://cloud.starlights.uk/)
+- Canal de WhatsApp: [【 ✯ Starlights Team - Oficial Chanel ✰ 】](https://whatsapp.com/channel/0029VaBfsIwGk1FyaqFcK91S)
 
-```
-## 𝘿𝘼𝙍 𝙄𝙉𝙄𝘾𝙄𝙊 𝘿𝙀 𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 𝙔 𝙇𝙐𝙀𝙂𝙊 𝙐𝙎𝘼𝙍𝙇𝙊
-```bash
-> git clone https://github.com/AleXD0009/Sylpha-bot
-> cd Sylpha-bot 
-> npm start
-```
-### 𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨
+[![Click Aquí](https://img.shields.io/badge/Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5218261000681)
+
+
+### Colaboradores
 <a href="https://github.com/davidprospero123"><img src="https://i.pinimg.com/564x/37/cc/f0/37ccf0b5f91c7450d45980f274fd49c2.jpg" width="200" height="200" alt="Gabriel Curi"/></a>
 
 
